@@ -1,7 +1,29 @@
+*.exe
+*.dll
+*.do
+*.o
+*.obj
+*.so
+*.dylib
+*.dSYM
+*.jl.cov
+*.jl.mem
+*.ji
+
+
+# Backups
 *~
-.*
 
-/site/
+# MkDocs build
+site/
 
-!.gitignore
-!.travis.yml
+
+# Temp and status files
+*.db
+.*.swp
+*.log
+*.pid
+pidfile
+.DS_Store
+*.rc
+pip-log.txt
