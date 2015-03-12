@@ -9,7 +9,6 @@ pages:
 - ['index.md', 'Home']
 
 use_directory_urls: false
-copyright: Copyright (c) 2015 **peter1000**  <https://github.com/peter1000>.
+copyright: Copyright &copy; 2015, <strong>peter1000</strong> <a href="https://github.com/peter1000">https://github.com/peter1000</a>. <br /> All rights reserved.
 
-
-theme: 'bootstrap'
+theme: 'lconf_theme'
