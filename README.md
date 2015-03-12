@@ -6,7 +6,7 @@ All rights reserved.
 
 ## Web site 
 
-* <http://lconf.github.io//> - The **LCONF** web site
+* <http://lconf.github.io/> - The **LCONF** web site
 * <https://github.com/LCONF/lconf.github.io.git/> - The **LCONF** web github repository
 * <https://github.com/LCONF/LCONF.github.io/tree/Markdown-Source/> - The **LCONF** web Markdown-Source github repository Branch
 
