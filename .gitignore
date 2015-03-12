@@ -1,0 +1,7 @@
+*~
+.*
+
+/site/
+
+!.gitignore
+!.travis.yml

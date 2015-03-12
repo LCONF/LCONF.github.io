@@ -1,0 +1,15 @@
+site_name: The LCONF website
+
+site_url: http://lconf.github.io/
+site_description: The LCONF website.
+repo_url: https://github.com/LCONF/LCONF.github.io.git/
+
+
+pages:
+- ['index.md', 'Home']
+
+use_directory_urls: false
+copyright: Copyright (c) 2015 **peter1000**  <https://github.com/peter1000>.
+
+
+theme: 'bootstrap'
