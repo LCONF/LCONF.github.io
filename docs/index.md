@@ -29,9 +29,9 @@ It is a data serialization format designed to be *light and simple*, *with speci
     PyLCONF is a LCONF parser and emitter for Python - <http://lconf.github.io/PyLCONF/> 
 
 
-* **JuLCONF**
+* **LCONF.jl**
 
-    JuLCONF is a LCONF parser and emitter for Julia - <http://lconf.github.io/JuLCONF/> 
+    LCONF.jl is a LCONF parser and emitter for Julia - <http://lconf.github.io/LCONF.jl/> 
 
 
 * **LCONF.github.io**
@@ -83,7 +83,7 @@ If you know of others, please open an [issue](https://github.com/LCONF/LCONF.git
 
 &nbsp;&nbsp; *Julia coders: LCONF is looking for *Julia* parser/emitter* 
 
-* **[JuLCONF](http://lconf.github.io/JuLCONF/)** is a LCONF parser and emitter for Julia.
+* **[LCONF.jl](http://lconf.github.io/LCONF.jl/)** is a LCONF parser and emitter for Julia.
 
 
 ### Lua
