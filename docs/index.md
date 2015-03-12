@@ -83,7 +83,7 @@ If you know of others, please open an [issue](https://github.com/LCONF/LCONF.git
 
 &nbsp;&nbsp; *Julia coders: LCONF is looking for *Julia* parser/emitter* 
 
-* [JuLCONF](http://lconf.github.io/JuLCONF/) is a LCONF parser and emitter for Julia.
+* **[JuLCONF](http://lconf.github.io/JuLCONF/)** is a LCONF parser and emitter for Julia.
 
 
 ### Lua
@@ -105,7 +105,7 @@ If you know of others, please open an [issue](https://github.com/LCONF/LCONF.git
 
 &nbsp;&nbsp; *Python coders: LCONF is looking for *Python* parser/emitter* 
 
-* [PyLCONF](http://lconf.github.io/PyLCONF/) is a LCONF parser and emitter for Python.
+* **[PyLCONF](http://lconf.github.io/PyLCONF/)** is a LCONF parser and emitter for Python.
 
 
 ### Ruby
