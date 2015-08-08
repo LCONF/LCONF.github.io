@@ -38,11 +38,6 @@ It is a data serialization format designed to be *light and simple*, *with speci
    
     The *LCONF-Website* at github - <https://github.com/LCONF/LCONF.github.io/>
    
-   
-* **LCONF-Doc-Themes**
-   
-    The *LCONF-Doc-Themes* at github - <https://github.com/LCONF/LCONF-Doc-Themes/>
-   
 
 ## LCONF Parser - Emitter - Libraries
 
