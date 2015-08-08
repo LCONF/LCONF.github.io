@@ -4,11 +4,10 @@ site_url: http://lconf.github.io/
 site_description: The LCONF website.
 repo_url: https://github.com/LCONF/LCONF.github.io.git/
 
-
 pages:
-- ['index.md', 'Home']
+- Home: 'index.md'
 
 use_directory_urls: true
 copyright: Copyright &copy; 2015, <strong>peter1000</strong> <a href="https://github.com/peter1000">https://github.com/peter1000</a>. <br /> All rights reserved.
 
-theme: 'lconf_theme'
+theme: 'bootstrap'
