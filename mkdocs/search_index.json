@@ -1,0 +1,89 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to LCONF\n\n\nFor \nofficial\n information visit \nThe \nLCONF\n website\n.\n\n\nLCONF\n The light and simple readable data serialization format for dynamic configurations and data exchange.\n\n\nIt is a data serialization format designed \nwith special emphasis on being human-friendly\n and works well with many modern programming languages.\n\n\nOfficial LCONF Projects\n\n\n\n\n\n\nLCONF\n\n\nThe official \nLCONF-Organization\n at github - \nhttps://github.com/LCONF/\n\n\nUmbrella for LCONF Projects.\n\n\n\n\n\n\nLCONF-Standard\n\n\nThe official LCONF data serialization format Standard.\nContains the latest \nLCONF-Standard Specification\n (SPEC)\n\n\nThe \nLCONF-Standard\n web site - \nhttp://lconf.github.io/LCONF-Standard/\n\n\n\n\n\n\nPyLCONF\n\n\nPyLCONF is a LCONF parser and emitter for Python - \nhttp://lconf.github.io/PyLCONF/\n\n\n\n\n\n\nLCONF.jl\n\n\nLCONF.jl is a LCONF parser and emitter for Julia - \nhttp://lconf.github.io/LCONF.jl/\n\n\n\n\n\n\nLCONF.github.io\n\n\nThe \nLCONF-Website\n at github - \nhttps://github.com/LCONF/LCONF.github.io/\n\n\n\n\n\n\nLCONF Parser - Emitter - Libraries\n\n\nIf you know of others, please open an \nissue\n at github.\n\n\nC/C++\n\n\n \nC/C++ coders: LCONF is looking for fast parser/emitter \n libraries\n\n\nC#/.NET\n\n\n \nC#/.NET coders: LCONF is looking for \nC#/.NET\n parser/emitter\n\n\nGo\n\n\n \nGo coders: LCONF is looking for \nGo\n parser/emitter\n\n\nHaskell\n\n\n \nHaskell coders: LCONF is looking for \nHaskell\n parser/emitter\n\n\nJava\n\n\n \nJava coders: LCONF is looking for \nJava\n parser/emitter\n\n\nJavascript\n\n\n \nJavascript coders: LCONF is looking for \nJavascript\n parser/emitter\n\n\nJulia\n\n\n \nJulia coders: LCONF is looking for \nJulia\n parser/emitter\n\n\n\n\nLCONF.jl\n is a LCONF parser and emitter for Julia.\n\n\n\n\nLua\n\n\n \nLua coders: LCONF is looking for \nLua\n parser/emitter\n\n\nPerl\n\n\n \nPerl coders: LCONF is looking for \nPerl\n parser/emitter\n\n\nPHP\n\n\n \nPHP coders: LCONF is looking for native \nPHP\n implemented parser/emitter\n\n\nPython\n\n\n \nPython coders: LCONF is looking for \nPython\n parser/emitter\n\n\n\n\nPyLCONF\n is a LCONF parser and emitter for Python.\n\n\n\n\nRuby\n\n\n \nRuby coders: LCONF is looking for \nRuby\n parser/emitter\n\n\nOthers\n\n\n \nOther coders: LCONF is looking for parser/emitter",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-lconf",
+            "text": "For  official  information visit  The  LCONF  website .  LCONF  The light and simple readable data serialization format for dynamic configurations and data exchange.  It is a data serialization format designed  with special emphasis on being human-friendly  and works well with many modern programming languages.",
+            "title": "Welcome to LCONF"
+        },
+        {
+            "location": "/#official-lconf-projects",
+            "text": "LCONF  The official  LCONF-Organization  at github -  https://github.com/LCONF/  Umbrella for LCONF Projects.    LCONF-Standard  The official LCONF data serialization format Standard.\nContains the latest  LCONF-Standard Specification  (SPEC)  The  LCONF-Standard  web site -  http://lconf.github.io/LCONF-Standard/    PyLCONF  PyLCONF is a LCONF parser and emitter for Python -  http://lconf.github.io/PyLCONF/    LCONF.jl  LCONF.jl is a LCONF parser and emitter for Julia -  http://lconf.github.io/LCONF.jl/    LCONF.github.io  The  LCONF-Website  at github -  https://github.com/LCONF/LCONF.github.io/",
+            "title": "Official LCONF Projects"
+        },
+        {
+            "location": "/#lconf-parser-emitter-libraries",
+            "text": "If you know of others, please open an  issue  at github.",
+            "title": "LCONF Parser - Emitter - Libraries"
+        },
+        {
+            "location": "/#cc",
+            "text": "C/C++ coders: LCONF is looking for fast parser/emitter   libraries",
+            "title": "C/C++"
+        },
+        {
+            "location": "/#cnet",
+            "text": "C#/.NET coders: LCONF is looking for  C#/.NET  parser/emitter",
+            "title": "C#/.NET"
+        },
+        {
+            "location": "/#go",
+            "text": "Go coders: LCONF is looking for  Go  parser/emitter",
+            "title": "Go"
+        },
+        {
+            "location": "/#haskell",
+            "text": "Haskell coders: LCONF is looking for  Haskell  parser/emitter",
+            "title": "Haskell"
+        },
+        {
+            "location": "/#java",
+            "text": "Java coders: LCONF is looking for  Java  parser/emitter",
+            "title": "Java"
+        },
+        {
+            "location": "/#javascript",
+            "text": "Javascript coders: LCONF is looking for  Javascript  parser/emitter",
+            "title": "Javascript"
+        },
+        {
+            "location": "/#julia",
+            "text": "Julia coders: LCONF is looking for  Julia  parser/emitter   LCONF.jl  is a LCONF parser and emitter for Julia.",
+            "title": "Julia"
+        },
+        {
+            "location": "/#lua",
+            "text": "Lua coders: LCONF is looking for  Lua  parser/emitter",
+            "title": "Lua"
+        },
+        {
+            "location": "/#perl",
+            "text": "Perl coders: LCONF is looking for  Perl  parser/emitter",
+            "title": "Perl"
+        },
+        {
+            "location": "/#php",
+            "text": "PHP coders: LCONF is looking for native  PHP  implemented parser/emitter",
+            "title": "PHP"
+        },
+        {
+            "location": "/#python",
+            "text": "Python coders: LCONF is looking for  Python  parser/emitter   PyLCONF  is a LCONF parser and emitter for Python.",
+            "title": "Python"
+        },
+        {
+            "location": "/#ruby",
+            "text": "Ruby coders: LCONF is looking for  Ruby  parser/emitter",
+            "title": "Ruby"
+        },
+        {
+            "location": "/#others",
+            "text": "Other coders: LCONF is looking for parser/emitter",
+            "title": "Others"
+        }
+    ]
+}
