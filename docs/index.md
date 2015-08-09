@@ -39,6 +39,11 @@ It is a data serialization format designed *with special emphasis on being human
     The *LCONF-Website* at github - <https://github.com/LCONF/LCONF.github.io/>
 
 
+* **python_lconf_lexer**
+
+    python_lconf_lexer is a simple pygments lexer for LCONF. - <https://github.com/LCONF/python_lconf_lexer/>
+
+
 ## LCONF Parser - Emitter - Libraries
 
 If you know of others, please open an [issue](https://github.com/LCONF/LCONF.github.io/issues) at github.
